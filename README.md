@@ -13,10 +13,10 @@ To execute executable on linux, you open up terminal then you drag the executabl
 
 <h3>Mod Support Info</h3>
 <ul>
-  <li>To load a mod file, the mod file needs to be where the game tells you it needs to be and needs to be called The_Crusade_Campaign_For_Iberia_Video_Game_Mod.lua</li>
+  <li>To load a mod file, the mod file needs to be where the game tells you, out of its folder and it needs to be and needs to be called The_Crusade_Campaign_For_Iberia_Video_Game_Mod.lua</li>
 </ul>
 
-<a href="https://github.com/Daniel-Hanrahan-Tools-and-Games/The_Game_Of_Trusters_Video_Game_Adaptation_Mod">Example Mod Repository Page</a>
+<a href="https://github.com/Daniel-Hanrahan-Tools-and-Games/The_Crusade_Campaign_For_Iberia_Video_Game_Adaptation_Mod">Example Mod Repository Page</a>
 
 The file you must compile is The_Crusade_Campaign_For_Iberia.go, located in The_Crusade_Campaign_For_Iberia folder.
 
