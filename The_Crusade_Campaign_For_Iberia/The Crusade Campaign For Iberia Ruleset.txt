@@ -1,0 +1,33 @@
+The Crusade Campaign For Iberia Ruleset
+
+This work is licensed under Attribution-ShareAlike 4.0 International
+
+What The Player/s will Need:
+D20 Dice/20 sided die
+D12 Dice/12 sided die
+Single Digit D10 Dice/Single Digit 10 sided die
+D8 Dice/8 sided die
+D6 Dice/6 sided die
+D4 Dice/4 sided die
+
+What each Dice does for Traversal:
+D4 is for mountains
+D6 is for Forests
+D8 is for Rivers in allied land
+D10 is for Deserts
+D12 is for Rivers in enemy land/sea
+
+What each dice does for Conquest:
+D20 is for conquest
+
+What each Dice does for Political Instability:
+D4 is for marrige annexation
+D6 is for succession crisis breakaway
+D8 is for succession crisis annexation
+D10 is for civil war
+D12 is for new government
+D20 is for political revolution breakaway
+
+A player can start anywhere, then you decide what city to conquer next then you roll all dice except D20 to make sure it is not the highest possible value for each dice, that means you failed the traversal and you have to choose a city again, then you roll a D20 to make sure it is a 20 that means you successfully conquered the city or else you just stay there until political crisis happens, then you roll all dice to see if a political crisis happens and for a political crisis to happen, you have to get the highest number on each dice and when that happens you have to go back to the city you just came from and have to choose a city again. Players must write down every city each player controls.
+
+The players can play with other systems with this system but when moving to another system the players must say we are moving to another system and those systems are not covered under Attribution-ShareAlike 4.0 International.
