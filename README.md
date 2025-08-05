@@ -5,6 +5,11 @@ A Video Game adaptation is in this repository and it is written in GoLang and it
 
 To execute executable on linux, you open up terminal then you drag the executable into terminal then press enter.
 
+<h3>Compilation Prerequisites</h3>
+<ul>
+  <li>You need GoLang installed on your machine.</li>
+</ul>
+
 <h3>How to compile the video game adaptation with go</h3>
 <ol>
   <li>cd directory where game is in</li>
