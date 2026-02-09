@@ -27,6 +27,10 @@ To execute executable on linux, you open up terminal then you drag the executabl
 
 <a href="https://daniel-hanrahan-tools-and-games.github.io/The_Crusade_Campaign_For_Iberia_Video_Game_Adaptation_Compacted/">Fantasy Computer Compacted Version ReadMe Page</a>
 
+<a href="https://github.com/Daniel-Hanrahan-Tools-and-Games/The_Crusade_Campaign_For_Iberia_Video_Game_Adaptation_GCSE/tree/main">Game Creation System Version Repository Page</a>
+
+<a href="https://daniel-hanrahan-tools-and-games.github.io/The_Crusade_Campaign_For_Iberia_Video_Game_Adaptation_GCSE/">Game Creation System Version ReadMe Page</a>
+
 The file you must compile is The_Crusade_Campaign_For_Iberia.go, located in The_Crusade_Campaign_For_Iberia folder.
 
 Anything not covered by the GNU GPL 3.0: This work is licensed under Attribution-ShareAlike 4.0 International
