@@ -35,6 +35,8 @@ To execute executable on linux, you open up terminal then you drag the executabl
 
 <a href="https://daniel-hanrahan-tools-and-games.github.io/The_Crusade_Campaign_For_Iberia_Video_Game_Adaptation_VPLS/">Visual Programming Language System Version ReadMe Page</a>
 
+<li><a href="https://daniel-hanrahan-tools-and-games.github.io/MGSInfo.html">Information On Multi-Game-Systems</a></li>
+
 The file you must compile is The_Crusade_Campaign_For_Iberia.go, located in The_Crusade_Campaign_For_Iberia folder.
 
 Anything not covered by the GNU GPL 3.0: This work is licensed under Attribution-ShareAlike 4.0 International
